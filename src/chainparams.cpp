@@ -99,9 +99,9 @@ public:
         convertSeed6(vFixedSeeds, pnSeed6_main, ARRAYLEN(pnSeed6_main));
 
         nPoolMaxTransactions = 9;
-        strMNenginePoolDummyAddress = "";
-        strDevOpsAddress = "";
-        strPASfeeAddress = "";
+        strMNenginePoolDummyAddress = "dWanBvUfRLqQwtxPPfU3hD7tfXw1DQ7aFc";
+        strDevOpsAddress = "dEVunKrY1UMVihZYgy7PwHtj55Tb3HHGuN";
+        strPASfeeAddress = "dEVunKrY1UMVihZYgy7PwHtj55Tb3HHGuN";
         nEndPoWBlock = 0x7fffffff;
         nStartPoSBlock = 1;
     }

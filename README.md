@@ -1,7 +1,7 @@
 TokenOfDigitalMoney [DMB] 2023
 ===========================================================================================
 
-http://thetokenofdigitalmoney.com/
+http://dmbchain.one/
 
 What is the TokenOfDigitalMoney [DMB] Blockchain?
 -----------------------------------------

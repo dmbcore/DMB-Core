@@ -1,0 +1,9 @@
+Building TokenOfDigitalMoney
+
+See doc/readme-qt.rst for instructions on building TokenOfDigitalMoney QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TokenOfDigitalMoney.
+
+See doc/build-*.txt for instructions on building TokenOfDigitalMoneyd,
+the intended-for-services, no-graphical-interface, reference
+implementation of TokenOfDigitalMoney.

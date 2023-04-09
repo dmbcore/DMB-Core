@@ -7,7 +7,7 @@ What is the TokenOfDigitalMoney [DMB] Blockchain?
 -----------------------------------------
 
 ### Overview
-TokenOfDigitalMoney is a blockchain project aimed at helping save our world's rainforests and other important environmental features.
+TokenOfDigitalMoney is a blockchain project.
 
 ### Blockchain Technology
 The TokenOfDigitalMoney [DMB] Blockchain is an experimental smart contract platform that enables 

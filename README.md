@@ -190,7 +190,6 @@ The developer [mailing list](https://lists.linuxfoundation.org/mailman/listinfo/
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
-Developer Discord can be found at https://discord.gg/MTJWM9eHVQ .
 
 Testing
 -------

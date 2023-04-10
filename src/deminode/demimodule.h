@@ -6,6 +6,8 @@
 
 #include <string>
 #include <cstring>
+// Compatibility for some compiliers (linking)
+#include <fstream>
 
 std::string GetDemiConfigFile();
 void ReadDemiConfigFile(std::string peerReadAddr);

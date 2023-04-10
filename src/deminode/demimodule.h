@@ -7,8 +7,7 @@
 #include <string>
 #include <cstring>
 
-using namespace std;
-
+std::string GetDemiConfigFile();
 void ReadDemiConfigFile(std::string peerReadAddr);
 
 extern bool fDemiFound;

@@ -1,18 +1,18 @@
-TokenOfDigitalMoney [DMB] 2023
+Token Of Digital Money [DMB] 2023
 ===========================================================================================
 
 http://dmbchain.one/
 
-What is the TokenOfDigitalMoney [DMB] Blockchain?
+What is the Token Of Digital Money [DMB] Blockchain?
 -----------------------------------------
 
 ### Overview
-TokenOfDigitalMoney is a blockchain project.
+Token Of Digital Money is a blockchain project.
 
 ### Blockchain Technology
-The TokenOfDigitalMoney [DMB] Blockchain is an experimental smart contract platform that enables 
+The Token Of Digital Money [DMB] Blockchain is an experimental smart contract platform that enables 
 instant payments to anyone, anywhere in the world in a private, secure manner. 
-TokenOfDigitalMoney [DMB] uses peer-to-peer blockchain technology developed by CryptoCoderz and SaltineChips to operate
+Token Of Digital Money [DMB] uses peer-to-peer blockchain technology to operate
 with no central authority: managing transactions, execution of contracts, and 
 issuing money are carried out collectively by the network.
 
@@ -20,7 +20,7 @@ issuing money are carried out collectively by the network.
 VRX is designed from the ground up to integrate properly with the Velocity parameter enforcement system to ensure users no longer receive orphan blocks.
 
 ### Velocity Block Constraint System
-Ensuring TokenOfDigitalMoney stays as secure and robust as possible, we have implemented what's known as the Velocity block constraint system. This system acts as a third and final check for both mined and peer-accepted blocks, ensuring that all parameters are strictly enforced.
+Ensuring Token Of Digital Money stays as secure and robust as possible, we have implemented what's known as the Velocity block constraint system. This system acts as a third and final check for both mined and peer-accepted blocks, ensuring that all parameters are strictly enforced.
 
 ### Demi-Nodes
 Our network now operates by using "Demi-nodes" to help the wallet make informed decisions on how to treat a peer in the network or even other nodes that aren't trusted. Demi-nodes are a list of trusted nodes a user can define inside of the wallet. These user-defined trusted nodes then can be queried for specific data such as asking the Demi-node network wether or not a reorganization request from another peer is a valid one or something that should be rejected and then banned off the network to protect other peers. An adaptive self cleaning network as this continiously defends itself from any possible intrusion or attack while still keeping decentralization as the underlying focus by allowing users to define their own lists. This feature compliments the Velocity security system which goes beyond other blockchain's security methods to ensure no possibility of malformed blocks making it onto the chain even with something like a 51% attack.
@@ -30,7 +30,7 @@ Wish or bmw512 hashing algorithm is utilized for the Proof-of-Work function and 
 
 Specifications and General info
 ------------------
-TokenOfDigitalMoney uses 
+Token Of Digital Money uses 
 
 	libsecp256k1
 	libgmp
@@ -42,7 +42,7 @@ TokenOfDigitalMoney uses
 
 General Specs
 
-	Name: 					  Token of Digital Money
+	Name: 		 	  Token of Digital Money
 	Max coin supply:          280,000,000 (280-million DMB)
 	Premine Coin Count:       (15%) = 42 Million DMB
 	Algorithm:                Wish (bmw512)
@@ -55,7 +55,8 @@ General Specs
 	Relayed Txn Depth:        5-blocks (sent or received Txn)
 	Min. Staking Depth:       30-blocks (Relayed Txn)
 	Mined Txn Depth:          20-blocks
-	Masternodes:
+	Masternode Collateral:	  50,000 DMB
+
 	Masternodes help secure the Token Of Digital Money [DMB] network by making it
 	more decentralized, providing a consensus for every transaction, and
 	other extended features such as private messaging and so on.
@@ -65,7 +66,7 @@ General Specs
 
 BUILD LINUX
 -----------
-### Compiling TokenOfDigitalMoney "SatoshiCore" daemon on Ubuntu 22.04 LTS (Jammy Jellyfish)
+### Compiling Token Of Digital Money "SatoshiCore" daemon on Ubuntu 22.04 LTS (Jammy Jellyfish)
 ### Note: guide should be compatible with other Ubuntu versions from 14.04+
 
 ### Become poweruser
@@ -176,7 +177,7 @@ cd ~; cp -r ~/TokenOfDigitalMoney/src/TokenOfDigitalMoneyd /usr/local/bin
 License
 -------
 
-TokenOfDigitalMoney [DMB] is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Token Of Digital Money [DMB] is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process

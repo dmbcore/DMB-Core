@@ -3,7 +3,7 @@ Token Of Digital Money [DMB] 2023
 
 http://dmbchain.one/
 
-What is the Token Of Digital Money [DMB] Blockchain?
+What is Token Of Digital Money [DMB] Blockchain?
 -----------------------------------------
 
 ### Overview
